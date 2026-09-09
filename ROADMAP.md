@@ -5,6 +5,14 @@ other. Each topic becomes one or more entries in [exercises/](exercises/);
 the ones marked with a project link graduate into [projects/](projects/)
 once the underlying exercises are done. Check items off as you go.
 
+## Sources
+
+Exercises draw on outside course material where it maps onto a topic here,
+adapted rather than copied — reference notebooks live in
+[references/](references/). Currently pulling from
+[ARENA's LLM Evals chapter](https://learn.arena.education/chapter3_llm_evals/01_intro_evals/intro/)
+(threat-modeling, judge design, benchmark construction with `inspect_ai`).
+
 ## Phase 1 — Foundations
 
 - [ ] What is an "eval"? Offline evals vs. online monitoring, why they matter
