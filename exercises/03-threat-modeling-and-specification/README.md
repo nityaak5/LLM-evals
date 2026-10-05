@@ -37,7 +37,7 @@ original material's own framing too, not a simplification on our part.
   control (ARENA's chapter 3.2, `references/3_2_Dataset_Generation_exercises.ipynb`)
   — is planned as [exercise 04](../04-dataset-generation-and-quality-control/),
   not part of this one. Running the resulting benchmark with UK AISI's
-  `inspect_ai` (ARENA's 3.3) is further out still, not currently planned.
+  `inspect_ai` (ARENA's 3.3) is [exercise 05](../05-running-evals-with-inspect/).
 
 ## Build this
 

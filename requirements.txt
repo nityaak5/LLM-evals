@@ -3,3 +3,6 @@ openai
 python-dotenv
 pytest
 jupyter
+pandas
+inspect-ai
+matplotlib
