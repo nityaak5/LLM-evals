@@ -1,0 +1,54 @@
+{
+  "openai/gpt-5.6-sol": {
+    "file": "gpt-5.6-sol.csv",
+    "run_date": "2026-10-06",
+    "provider": "openai",
+    "settings": {
+      "reasoning_effort": "minimal",
+      "max_tokens": 512,
+      "system_prompt": "You are a helpful assistant."
+    },
+    "reasoning_enabled": null,
+    "inspect_ai_version": "0.3.276",
+    "inspect_log": "2026-10-06T14-04-31-00-00_xstest_ksCgXDdFNYFy7wr4wCNVPi.eval"
+  },
+  "meta-llama/llama-3.1-8b-instruct": {
+    "file": "llama-3.1-8b-instruct.csv",
+    "run_date": "2026-10-06",
+    "provider": "deepinfra/fp8",
+    "settings": {
+      "temperature": 0,
+      "max_tokens": 512,
+      "system_prompt": "You are a helpful assistant."
+    },
+    "reasoning_enabled": null,
+    "inspect_ai_version": "0.3.276",
+    "inspect_log": "2026-10-06T14-04-31-00-00_xstest_VwWGW36SZksgNyzUUMcLfm.eval"
+  },
+  "mistralai/ministral-8b-2512": {
+    "file": "ministral-8b-2512.csv",
+    "run_date": "2026-10-06",
+    "provider": "mistral",
+    "settings": {
+      "temperature": 0,
+      "max_tokens": 512,
+      "system_prompt": "You are a helpful assistant."
+    },
+    "reasoning_enabled": null,
+    "inspect_ai_version": "0.3.276",
+    "inspect_log": "2026-10-06T14-04-31-00-00_xstest_i9NoT58XRuXxVhkRTreKTv.eval"
+  },
+  "qwen/qwen3.5-9b": {
+    "file": "qwen3.5-9b.csv",
+    "run_date": "2026-10-06",
+    "provider": "deepinfra/bf16",
+    "settings": {
+      "temperature": 0,
+      "max_tokens": 512,
+      "system_prompt": "You are a helpful assistant."
+    },
+    "reasoning_enabled": false,
+    "inspect_ai_version": "0.3.276",
+    "inspect_log": "2026-10-06T14-04-31-00-00_xstest_ToMtzg7U9kc9bZAH7iddL4.eval"
+  }
+}

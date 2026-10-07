@@ -1,0 +1,12 @@
+{
+  "judge_model": "anthropic/claude-sonnet-5.5",
+  "provider": "azure/global",
+  "settings": {
+    "temperature": 0,
+    "reasoning_effort": "low",
+    "max_tokens": 1024,
+    "max_connections": 3
+  },
+  "run_date": "2026-10-06",
+  "inspect_ai_version": "0.3.276"
+}
